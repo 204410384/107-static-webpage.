@@ -15,17 +15,21 @@
 
 
 ## week4
-* [ttt.html](https://github.com/204410384/107-static-webpage./blob/master/w04/ttt.html "ttt.html")，[ttt.css](https://github.com/204410384/107-static-webpage./blob/master/w04/ttt.css "ttt.css")  
-* [blog.html](https://github.com/204410384/107-static-webpage./blob/master/w04/blog.html "blog.html")，[blog.css](https://github.com/204410384/107-static-webpage./blob/master/w04/blog.css "blog.css") 
+* [ttt.html](https://github.com/204410384/107-static-webpage./blob/master/w04/ttt.html "ttt.html")
+* [ttt.css](https://github.com/204410384/107-static-webpage./blob/master/w04/ttt.css "ttt.css")  
+* [blog.html](https://github.com/204410384/107-static-webpage./blob/master/w04/blog.html "blog.html")
+* [blog.css](https://github.com/204410384/107-static-webpage./blob/master/w04/blog.css "blog.css") 
 * [profile.html](https://github.com/204410384/107-static-webpage./blob/master/w04/profile.html "profile.html")
 
 
 
 ## week5
-* [imagegallery.html](https://github.com/204410384/107-static-webpage./blob/master/w05/imagegallery.html "imagegallery.html")，[imagegallery.css](https://github.com/204410384/107-static-webpage./blob/master/w05/imagegallery.css "imagegallery.css") 
-* [petwebsite.html](https://github.com/204410384/107-static-webpage./blob/master/w05/petwebsite.html "petwebsite.html")，[petwebsite.css](https://github.com/204410384/107-static-webpage./blob/master/w05/petwebsite.css "petwebsite.css")
+* [imagegallery.html](https://github.com/204410384/107-static-webpage./blob/master/w05/imagegallery.html "imagegallery.html")
+* [imagegallery.css](https://github.com/204410384/107-static-webpage./blob/master/w05/imagegallery.css "imagegallery.css") 
+* [petwebsite.html](https://github.com/204410384/107-static-webpage./blob/master/w05/petwebsite.html "petwebsite.html")
+* [petwebsite.css](https://github.com/204410384/107-static-webpage./blob/master/w05/petwebsite.css "petwebsite.css")
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk0MTYzODEsLTE4MDIyNjE0MTUsLT
-EzNjM1MjcxODBdfQ==
+eyJoaXN0b3J5IjpbLTkzNzI0MTY5NSwtMTgwMjI2MTQxNSwtMT
+M2MzUyNzE4MF19
 -->
