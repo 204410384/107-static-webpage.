@@ -1,11 +1,11 @@
 ＃107靜態的網頁
 
 ## week1
-*  {intro.html
+* [intro.html](https://github.com/204410384/107-static-webpage./blob/master/w01/intro.html "intro.html")
 
 ## week2
-* myclass.html 
-* table.html
+* [myclass.html](https://github.com/204410384/107-static-webpage./blob/master/w02/myclass.html "myclass.html") 
+* [table.html](https://github.com/204410384/107-static-webpage./blob/master/w02/table.html "table.html")
 
 
 譯員更加
@@ -25,5 +25,5 @@
 * petwebsite.html，petwebsite.css
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODIzMzMyOF19
+eyJoaXN0b3J5IjpbLTE3NjI2MDk3OTFdfQ==
 -->
