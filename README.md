@@ -30,9 +30,9 @@
 * [petwebsite.css](https://github.com/204410384/107-static-webpage./blob/master/w05/petwebsite.css "petwebsite.css")
 
 ## week6
-* petwebsite.html
+* [petwebsite.html](https://github.com/204410384/107-static-webpage./blob/master/w06/petwebsite.html "petwebsite.html")
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzI0MTY5NSwtMTgwMjI2MTQxNSwtMT
-M2MzUyNzE4MF19
+eyJoaXN0b3J5IjpbLTM5NDcyOTE1LC05MzcyNDE2OTUsLTE4MD
+IyNjE0MTUsLTEzNjM1MjcxODBdfQ==
 -->
