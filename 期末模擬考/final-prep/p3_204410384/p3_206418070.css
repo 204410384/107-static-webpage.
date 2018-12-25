@@ -1,0 +1,43 @@
+.logo img{
+    display: block;
+    margin: 0 auto;
+}
+
+.logo{
+    border-bottom: 3px solid lightblue;
+}
+
+header .title{
+ font-weight: bold;
+}
+header .next{
+ font-weight: inherit;
+}
+
+section p{
+ margin-top: 10px;
+}
+
+section .line{
+    border-bottom: 3px solid lightgray;
+}
+
+form{
+    padding: 10px;
+    border:5px solid lightblue;
+    border-radius: 10px;
+}
+
+form .big{
+    font-size: 30px;
+}
+
+label{
+    font-weight: bold;
+}
+
+.orange{
+    background: orangered;
+    color:white;
+    margin-right:0px;
+}

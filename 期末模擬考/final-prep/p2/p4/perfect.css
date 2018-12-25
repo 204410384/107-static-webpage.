@@ -1,0 +1,5 @@
+body {
+    background: url(./photo.jpg);
+    background-size: cover;
+    background-position: center;
+}
