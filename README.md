@@ -39,20 +39,20 @@
 
 ## week8
 
-* 
+* pattern.html
 
 ## week11
 
-*
+* bootstrap_sandbox_starter
 ## week12
 
-*
+* index.html 
 ## week13
 
-*
+* 
 ## week14
 
-*
+* videotest.html
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTM5NDcyOTE1LC05MzcyNDE2OTUsLTE4MD
 IyNjE0MTUsLTEzNjM1MjcxODBdfQ==
