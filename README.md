@@ -34,8 +34,7 @@
 
 ## week7
 
-* [tkuassign.html]()
-* [galleryTemplate.html]()
+* [galleryTemplate.html](http://127.0.0.1:5500/w07/galleryTemplate.html)
 
 ## week8
 
